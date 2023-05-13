@@ -8,6 +8,10 @@ AzerothCore 中文文档
 
 官方英文文档：
 https://www.azerothcore.org/wiki/installation#azerothcore-classic-setup
+
+
 https://www.azerothcore.org/wiki/windows-requirements
+
+
 https://www.azerothcore.org/wiki/windows-core-installation
 
