@@ -7,6 +7,7 @@ AzerothCore 中文文档
 * [3 多开服务器](toturial/3_multirealm.md)
 
 官方英文文档：
+
 https://www.azerothcore.org/wiki/installation#azerothcore-classic-setup
 
 
