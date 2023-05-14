@@ -30,7 +30,7 @@
 
 # 4 准备运行环境
 ## 4.1 拷贝 dll
-1. 拷贝 `C:\Program Files\MySQL\MySQL Server 8.0\bin\` 里的 `libmysql.dll` 到编译输出目录。
+1. 拷贝 `C:\Program Files\MySQL\MySQL Server 8.0\lib\` 里的 `libmysql.dll` 到编译输出目录。
 2. 打开 boost bin 目录，默认为 `C:\local\boost_1_81_0\bin`，在其中拷贝以下 dll 文件到编译输出目录
 	* `legacy.dll`
 	* `libcrypto-3-x64.dll`
