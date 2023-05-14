@@ -16,3 +16,5 @@ https://www.azerothcore.org/wiki/windows-requirements
 
 https://www.azerothcore.org/wiki/windows-core-installation
 
+https://wowdl.net/fichiers/clients
+
