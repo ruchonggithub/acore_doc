@@ -6,7 +6,7 @@ AzerothCore 中文文档
 * [2 公网服务器](toturial/2_public_server.md)
 * [3 多开服务器](toturial/3_multirealm.md)
 
-官方英文文档：
+# 官方英文文档：
 
 https://www.azerothcore.org/wiki/installation#azerothcore-classic-setup
 
@@ -15,6 +15,8 @@ https://www.azerothcore.org/wiki/windows-requirements
 
 
 https://www.azerothcore.org/wiki/windows-core-installation
+
+# 客户端下载
 
 https://wowdl.net/fichiers/clients
 
